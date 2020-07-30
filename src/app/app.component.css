@@ -1,0 +1,23 @@
+form{
+  margin-top: 50px;
+}
+
+.form-control{
+  width: 25%;
+}
+
+.verde{
+  color: green;
+}
+
+.rojo{
+  color: red;
+}
+
+.azul{
+  color: blue;
+}
+
+span{
+  font-size: 20px;
+}
